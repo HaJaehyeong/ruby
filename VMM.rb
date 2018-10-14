@@ -1,3 +1,5 @@
+# Vending Machien Management
+
 class VendingMachine
     # Constructor
     def initialize(drink)
