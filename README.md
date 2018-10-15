@@ -10,7 +10,7 @@
 ## * コイン投入
 <img src="https://user-images.githubusercontent.com/37164351/46925602-9da75c00-d067-11e8-9e95-e17057c375fa.png">  
 
-## * 払い戻し
+## * 払い戻し - 1
 <img src="https://user-images.githubusercontent.com/37164351/46925601-9da75c00-d067-11e8-8345-cba96d43275b.png">  
 
 ## * 購入開始
@@ -19,10 +19,15 @@
 ## * 購入
 <img src="https://user-images.githubusercontent.com/37164351/46925599-9d0ec580-d067-11e8-952e-a67fa8e836ce.png">  
 
-## * 購入できないとき - 釣銭不足
+## * 購入できないとき - 釣り銭不足
 <img src="https://user-images.githubusercontent.com/37164351/46925598-9d0ec580-d067-11e8-9c94-b4f97a5b1b81.png">  
 
 ## * 購入できないとき - 売り切れ
 <img src="https://user-images.githubusercontent.com/37164351/46925597-9d0ec580-d067-11e8-95bd-316ccc81fffb.png">  
 
-## * 
+## * 払い戻し - 2
+<img src="https://user-images.githubusercontent.com/37164351/46925596-9c762f00-d067-11e8-8bf7-b546702c8c3f.png">  
+
+## * 釣り銭がゼロになるとき
+<img src="https://user-images.githubusercontent.com/37164351/46925595-9c762f00-d067-11e8-835b-f02b268e4877.png">  
+
